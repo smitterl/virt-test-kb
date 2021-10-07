@@ -17,3 +17,10 @@ First, backup your config and take note of addresses, gateway, dns.
 # ip link set dev enc600 promisc on
 # systemctl restart NetworkManager
 ```
+
+More info:
+
+https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/networking_guide/sec-network_bridging_using_the_networkmanager_command_line_tool_nmcli
+
+https://www.google.com/url?q=https://www.ibm.com/docs/en/linux-on-systems?topic%3Dchoices-osa-interface-traffic-forwarding&sa=D&source=editors&ust=1633612314424000&usg=AOvVaw1yN5-ju_NK-T_YCyBDbocN
+
